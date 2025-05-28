@@ -1,4 +1,7 @@
-library(readr)
+#Assignment 3 
+#How many total new cases reported in 2014? 
+
+library(readr) 
 
 setwd("C:/Users/fanch/OneDrive/Documents/GitHub/ghp_r13853002")
 dengue_data<-read_csv(file="dengue_assignment.csv")
