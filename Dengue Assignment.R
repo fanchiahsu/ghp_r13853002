@@ -1,4 +1,3 @@
-library(dplyr)
 library(readr)
 
 setwd("C:/Users/fanch/OneDrive/Documents/GitHub/ghp_r13853002")
